@@ -1,0 +1,10 @@
+spring:
+  data:
+    mongodb:
+      database: Productsdb
+      host : localhost
+      port : 27107
+   
+
+server:
+  port: 9292
